@@ -1,0 +1,47 @@
+.h1{
+  color:#ff0000;
+  text-align:center;
+  font-size:300%;
+  font-weight:bold;
+ }
+.body{
+  background-color:#7FFF00;
+  
+}
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+.quote-box{
+  border-radius:3px;
+  position:relative;
+  margin:8% auto auto auto;
+  width:450px;
+  padding:100px 100px;
+  display:table;
+  background-color:#0000FF;
+  .quote-text {
+    i{
+      font-size:1.0em;
+      margin-right: 0.4em;
+    }
+    text-align:center;
+    width:450px;
+    height:auto;
+    clear:both;
+    font-weight:500;
+    font-size:1.75em;
+  }
+  .quote-author {
+    width:450px;
+    height:auto;
+    clear:both;
+    padding-top:20px;
+    font-size:1em; 
+    text-align:right;
+  }
+ }
+#new-quote{
+    padding: 8px 18px 6px 18px;
+    margin-top:90px;
+    margin-bottom:0px;
+    float:right;
+  
+}
